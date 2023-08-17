@@ -1,0 +1,6 @@
+Here is some data that will be written to the file.
+Here is some more data.  Notice this is on another line.
+When there are multiple items of related data in the same file, it is common to seperate these data items with a newline character.
+5
+5.0
+This string is stored in a variable.

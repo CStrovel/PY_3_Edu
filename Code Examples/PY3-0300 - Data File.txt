@@ -1,0 +1,4 @@
+There is a string on the first line of the file.
+45
+3.768
+True
